@@ -1,0 +1,79 @@
+google dork
+1)allintitle:
+2)allinurl:
+3)define:
+4)ext:php site:google.com
+5)filetype:pdf site:apple.com
+7)link:kali.org "kali purple"
+8)map: Shivaji Colony,Tilakwadi,Belagavi
+
+
+Tor Browser
+
+Linux commands
+
+ls
+pwd
+mkdir
+cd
+cp
+rmdir
+mv
+touch
+unmae
+locate
+cat
+clear
+ps
+man
+grep
+
+first cyber crime took place in 1820
+joseph Marie Jacquard is textile manufacturer in Japan and first cyber attack is on this machine
+next cyber attack took place in 1834 in France
+1989 world wide web was invented
+morris worm of 1988
+the WannaCry ransomware attack in may 2017
+->ransomware
+->WannaCry
+->Stuxnet 
+->collaborative robots(cobots) hacking
+->deepfake:fake videos are creted by using deepfake
+->website: stopncii.org: protecting if someone is threatening to share your intimate images
+->the wayback machine is open source intelligent tool
+->wayback website
+->create try hack me
+
+->TRUE POSITIVE:THE RULE THAT IS MATCHED AND THE ATTACK IS PRESENT
+->TRUE NEGATIVE:THE RULE IS NOT MATCHED BUT THE ATTACK IS PRESENT
+->FALSE POSITIVE:THE RULE GOT MATCHED BUT THE ATTACK IS NOT PRESENT
+->FALSE NEGATIVE:NOR THE RULE MATCHES NOR THE ATTACK IS PRESENT
+
+->Reconnaissance
+->credential access
+->discovery
+->collection 
+->persistence 
+->differentiation
+->command and control
+->execution
+->impact
+
+command gobuster
+
+
+common attack
+networking
+network services
+
+ 10.10.14.81
+
+IP ADDRESS
+
+cryptohack
+
+
+download
+websploit.org
+curl -sSL https://websploit.org/install.sh | sudo bash
+
